@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nice to meet you 👋
 
 <!--
 **askanniething/askanniething** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Annie, developer and rising third-year CS student at the University of Waterloo!
+- 😄 I'm interested in web development, human-computer interaction and weird languages!
+- 📚 In my spare time, I like to sew and read. Fun fact: I'm currently pursuing an English minor.
+
+Feel free to reach out through my [email](mailto:annie.chen1@uwaterloo.ca) or [LinkedIn](https://www.linkedin.com/in/askanniething/)!
